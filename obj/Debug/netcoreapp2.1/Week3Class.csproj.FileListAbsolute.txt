@@ -1,0 +1,11 @@
+C:\Users\jstam\source\repos\Week3Class\Week3Class\bin\Debug\netcoreapp2.1\Week3Class.deps.json
+C:\Users\jstam\source\repos\Week3Class\Week3Class\bin\Debug\netcoreapp2.1\Week3Class.runtimeconfig.json
+C:\Users\jstam\source\repos\Week3Class\Week3Class\bin\Debug\netcoreapp2.1\Week3Class.runtimeconfig.dev.json
+C:\Users\jstam\source\repos\Week3Class\Week3Class\bin\Debug\netcoreapp2.1\Week3Class.dll
+C:\Users\jstam\source\repos\Week3Class\Week3Class\bin\Debug\netcoreapp2.1\Week3Class.pdb
+C:\Users\jstam\source\repos\Week3Class\Week3Class\obj\Debug\netcoreapp2.1\Week3Class.csproj.CoreCompileInputs.cache
+C:\Users\jstam\source\repos\Week3Class\Week3Class\obj\Debug\netcoreapp2.1\Week3Class.AssemblyInfoInputs.cache
+C:\Users\jstam\source\repos\Week3Class\Week3Class\obj\Debug\netcoreapp2.1\Week3Class.AssemblyInfo.cs
+C:\Users\jstam\source\repos\Week3Class\Week3Class\obj\Debug\netcoreapp2.1\Week3Class.dll
+C:\Users\jstam\source\repos\Week3Class\Week3Class\obj\Debug\netcoreapp2.1\Week3Class.pdb
+C:\Users\jstam\source\repos\Week3Class\Week3Class\obj\Debug\netcoreapp2.1\Week3Class.csprojAssemblyReference.cache
